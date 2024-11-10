@@ -11,6 +11,9 @@
 # production
 /build
 
+# files
+src/App.copy.*.js
+
 # misc
 .DS_Store
 .env
