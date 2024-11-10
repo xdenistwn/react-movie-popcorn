@@ -3,14 +3,15 @@
 A simple react web application that integrated with Imdb Movie API, and user can rate it locally.
 (self learn purpose) (status: done).
 
-# Goal of this app
+## Goal of this app
 - learn about components reuseability
-- how react works begind the scene
+- how react works behind the scene
 - handling effect and data fetching
 
-# Sample Preview App
+## Sample Preview App
 <img src="https://raw.githubusercontent.com/xdenistwn/react-movie-popcorn/refs/heads/main/public/images/preview-app/dashboard-1.png" width="550" height="550" height="auto">
 
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -36,3 +37,4 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
