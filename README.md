@@ -4,12 +4,15 @@ A simple react web application that integrated with Imdb Movie API, and user can
 (self learn purpose).
 
 ## Goal of this app
+
 - learn about components reuseability
 - how react works behind the scene
 - handling effect and data fetching
 - useRef feature
+- handling multiple keydown press using reuseable custom hook
 
 ## Sample Preview App
+
 <img src="https://raw.githubusercontent.com/xdenistwn/react-movie-popcorn/refs/heads/main/public/images/preview-app/dashboard-1.png" width="550" height="550" height="auto">
 
 ```
